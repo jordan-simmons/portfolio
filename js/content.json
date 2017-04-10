@@ -1,0 +1,39 @@
+{
+	"en": {
+
+        "aboutMe": {
+                "title": "About me",
+                "content": "I'm a programmer, web designer and 
+                graphic designer with over a year in the respective 
+                fields. I have built a handful of websites and web 
+                applications, and I have a JavaScript library 
+                in the works. I've used HTML, CSS, JavaScript, 
+                Java, and C# in various situations. I also have 
+                over 3 years of experience with computer 
+                technology, troubleshooting, and networking."
+            },
+        "seeMore": {
+            "content": "See more"
+        },
+        "extra": {
+            "content": "I've always wanted to build websites, 
+            applications, and design games ever since I discovered 
+            there were instructions people wrote to make 
+            everything (for the most part) run behind the 
+            scenes. I've loved everything that had to do 
+            with computers, machine learning, simulations,
+            and the Internet for quite a long time. My 
+            grandpa and I used to spend days working on 
+            numerous construction project throughout my 
+            10 years living with him, but since I've moved
+            we have, for the most part, lost that connection 
+            and chances to do things like we used to. I took
+            up coding, for the most part, because it gave me 
+            that satisfaction of when him and I would work on
+            projects, just without the nails."
+        }
+    },
+	"de": {
+
+    }
+}
